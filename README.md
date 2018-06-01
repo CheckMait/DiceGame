@@ -2,7 +2,7 @@
 The Good'ol Dice Game. Made With Love Using HTML, CSS and JavaScript!
 ![Game Picture](http://guptasaransh.000webhostapp.com/dice.jpg)
 
-###Game Rules:
+### Game Rules:
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
