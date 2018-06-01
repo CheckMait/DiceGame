@@ -11,4 +11,6 @@ The Good'ol Dice Game. Made With Love Using HTML, CSS and JavaScript!
 - After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game!
 
+(gupta-saransh.github.io/DiceGame "Dice Game")
+
 Good Luck!
